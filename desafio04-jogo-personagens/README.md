@@ -7,15 +7,18 @@ Este projeto simula um pequeno jogo de RPG em que o usuário pode criar personag
 - Programação Orientada a Objetos (POO)
 - Herança e sobrescrita de métodos
 - Arrays e ArrayList
+- Estruturas de repetição
 - Estrutura de menus interativos
 - Scanner para entrada de dados
 - Controle de fluxo com `switch` e `instanceof`
 
 ## 🚀 Funcionalidades
 
-- Criar diferentes tipos de personagens
-- Listar personagens cadastrados e suas habilidades especiais
-- Aprender uma nova habilidade (ultimate) para Elfos e Orcs
+- Criar personagens do tipo Elfo, Orc ou Genérico
+- Listar todos os personagens cadastrados com suas informações
+- Cada personagem exibe uma habilidade especial
+- Alterar (aprender) uma nova ultimate para Elfo ou Orc
+- Restrição: Personagens genéricos não podem aprender novas ultimates
 
 ## 🧠 Aprendizados
 
