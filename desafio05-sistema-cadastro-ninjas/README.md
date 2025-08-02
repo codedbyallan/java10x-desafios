@@ -1,4 +1,4 @@
-# 🥷 Sistema Ninja de Konoha (Desafio Java)
+# 💻 Sistema Ninja de Konoha (Desafio Java)
 
 Projeto em Java criado como desafio para treinar os conceitos de Programação Orientada a Objetos, com foco em:
 
@@ -40,6 +40,7 @@ Projeto em Java criado como desafio para treinar os conceitos de Programação O
 ---
 
 ✨ Melhorias futuras
+
  Persistência com arquivos (.txt) ou banco de dados (JDBC)
 
  Interface gráfica (Swing ou JavaFX)
