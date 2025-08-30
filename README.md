@@ -1,53 +1,78 @@
 # Java10x — Desafios
 
-Aprendizado prático de Java organizado em desafios progressivos.  
-Cada pasta contém um mini-projeto com objetivos claros, conceitos de Java a serem treinados e um `Main` (ou testes) para executar.
+Aprendizado prático de Java organizado em **desafios progressivos**.  
+Cada pasta contém um mini-projeto com objetivos claros, conceitos de Java a serem treinados.
+Cada desafio vive em seu próprio diretório dentro de `src/Desafios/DesafioXX`, com uma `Main` executável.
 
-- [Estrutura do Repositório](#-estrutura-do-repositório)
-- [Índice de Desafios](#-índice-de-desafios)
-  - [01 — Ninjas: Missão](./desafio01-ninjas-missao/)
-  - [02 — Menu de Ninjas](./desafio02-menu-ninjas/)
-  - [03 — Missões & Classes](./desafio03-missoes-ninjas-classes/)
-  - [04 — Jogo de Personagens](./desafio04-jogo-personagens/)
-  - [05 — Sistema de Cadastro de Ninjas](./desafio05-sistema-cadastro-ninjas/)
+
+- [Estrutura do repositório](#-estrutura-do-repositório)
+- [Índice de desafios](#-índice-de-desafios)
+- [Como executar](#-como-executar)
+- [Boas práticas (opcional)](#-boas-práticas-opcional)
 
 ---
 
-## 🗂 Estrutura do Repositório
+## 🗂 Estrutura do repositório
+
 ```
-java10x-desafios/
-├─ desafio01-ninjas-missao/
-├─ desafio02-menu-ninjas/
-├─ desafio03-missoes-ninjas-classes/
-├─ desafio04-jogo-personagens/
-├─ desafio05-sistema-cadastro-ninjas/
+Java10x - Desafios/
+├─ src/
+│ └─ Desafios/
+│ ├─ Desafio01/
+│ ├─ Desafio02/
+│ ├─ Desafio03/
+│ ├─ Desafio04/
+│ ├─ Desafio05/
+│ ├─ Desafio06/
+│ ├─ Desafio07/
+│ └─ Desafio08/
 └─ README.md
 ```
 ---
 
-## 🏹 Índice de Desafios
+## 🏹 Índice de desafios
 
-### [01 — Ninjas: Missão](./desafio01-ninjas-missao/)
+> Os nomes seguem o padrão do diretório mostrado no projeto (Desafio01, Desafio02, …).  
+> Os títulos descritivos servem como orientação do conteúdo treinado.
 
-Introdução ao Java: variáveis, entrada e saída de dados, lógica condicional.
-➡️ Objetivo: Criar um programa simples que simula a missão de um ninja.
+- **[Desafio 01](src/Desafios/Desafio01/)**  
+  Introdução ao Java: variáveis, entrada/saída e condicionais.  
+  *Objetivo:* simular a missão de um ninja.
 
-### [02 — Menu de Ninjas](./desafio02-menu-ninjas/)
+- **[Desafio 02](./src/Desafios/Desafio02/)**  
+  Laços (`for`, `while`) e menus interativos no console.  
+  *Objetivo:* listar, adicionar e executar missões.
 
-Explorando loops (for, while) e menus interativos em console.
-➡️ Objetivo: Criar um menu que permita listar, adicionar e executar missões de ninjas.
+- **[Desafio 03](./src/Desafios/Desafio03/)**  
+  POO básica: classes, atributos, métodos e instâncias.  
+  *Objetivo:* modelar missões em classes e encapsular lógica.
 
-### [03 — Missões & Classes](./desafio03-missoes-ninjas-classes/)
+- **[Desafio 04](./src/Desafios/Desafio04/)**  
+  Herança, polimorfismo e sobrescrita.  
+  *Objetivo:* jogo simples com personagens de comportamentos próprios.
 
-Conceitos de Programação Orientada a Objetos (POO): classes, atributos, métodos e instâncias.
-➡️ Objetivo: Estruturar as missões em classes, encapsular lógica e organizar código.
+- **[Desafio 05](./src/Desafios/Desafio05/)**  
+  POO, listas e interação via console.  
+  *Objetivo:* CRUD simples de ninjas e missões.
 
-### [04 — Jogo de Personagens](./desafio04-jogo-personagens/)
+- **[Desafio 06](./src/Desafios/Desafio06/)**  
+  Interfaces, `enum` e boas práticas de organização.  
+  *Objetivo:* abstrair comportamentos e categorizar habilidades.
 
-Herança, polimorfismo e sobrescrita de métodos.
+- **[Desafio 07 — (em construção)](./src/Desafios/Desafio07/)**
 
-➡️ Objetivo: Criar um jogo simples com diferentes personagens (ninjas, samurais, inimigos), cada um com comportamentos próprios.
+- **[Desafio 08 — (em construção)](./src/Desafios/Desafio08/)**
 
-### [05 — Sistema de Cadastro de Ninjas](./desafio05-sistema-cadastro-ninjas/)
+---
 
-➡️ Objetivo: Mini-projeto em Java para treinar POO, herança, listas e interação via console, inspirado no universo ninja.
+## ▶️ Como executar
+1. Abra o projeto na IDE de preferência;
+2. Navegue até `src/Desafios/DesafioXX/Main.java`;
+3. Clique com o botão direito → **Run 'Main.main()'**.  
+4. (Se necessário) ajuste em **Run ▸ Edit Configurations…** para apontar para o `Main` correto.
+
+---
+
+## 🧭 Boas práticas:
+
+- Cada desafio tem seu próprio `README.md` com instruções e exemplos de uso.
