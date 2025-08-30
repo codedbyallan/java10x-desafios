@@ -1,4 +1,4 @@
-package A_Iniciante.Desafios;
+package Desafios.Desafio01;
 
 public class Desafio1 {
     public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package B_Intermediario.Topicos.Desafios.DesafioChatGPT;
+package Desafios.Desafio05;
 
 import java.util.ArrayList;
 import java.util.Scanner;

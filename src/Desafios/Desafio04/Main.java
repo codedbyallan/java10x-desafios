@@ -1,4 +1,4 @@
-package B_Intermediario.Topicos.Desafios.Desafio2;
+package Desafios.Desafio04;
 
 import java.util.ArrayList;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package B_Intermediario.Topicos.Desafios.DesafioChatGPT;
+package Desafios.Desafio05;
 
 public class Anbu extends Ninja {
     public Anbu(String nome, int idade) {

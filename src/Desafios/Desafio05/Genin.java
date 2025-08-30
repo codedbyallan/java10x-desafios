@@ -1,4 +1,4 @@
-package B_Intermediario.Topicos.Desafios.DesafioChatGPT;
+package Desafios.Desafio05;
 
 public class Genin extends Ninja {
     public Genin(String nome, int idade) {

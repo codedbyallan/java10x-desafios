@@ -1,4 +1,4 @@
-package B_Intermediario.Topicos.Desafios.Desafio2;
+package Desafios.Desafio04;
 
 // exercicio para fixar conhecimentos;
 //Desafio 1 — Criando a base da herança

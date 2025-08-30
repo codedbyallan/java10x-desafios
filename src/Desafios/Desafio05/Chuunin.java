@@ -1,4 +1,4 @@
-package B_Intermediario.Topicos.Desafios.DesafioChatGPT;
+package Desafios.Desafio05;
 
 public class Chuunin extends Ninja {
     public Chuunin(String nome, int idade) {

@@ -1,4 +1,4 @@
-package B_Intermediario.Topicos.Desafios.Desafio1;
+package Desafios.Desafio03;
 
 public class Ninja {
     String nome;
