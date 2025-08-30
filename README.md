@@ -33,7 +33,6 @@ Java10x - Desafios/
 ## 🏹 Índice de desafios
 
 > Os nomes seguem o padrão do diretório mostrado no projeto (Desafio01, Desafio02, …).  
-> Os títulos descritivos servem como orientação do conteúdo treinado.
 
 - **[Desafio 01](src/Desafios/Desafio01/)**  
   Introdução ao Java: variáveis, entrada/saída e condicionais.  
