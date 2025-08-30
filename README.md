@@ -6,15 +6,15 @@ Cada pasta contém um mini-projeto com objetivos claros, conceitos de Java a ser
 - [Estrutura do Repositório](#-estrutura-do-repositório)
 - [Índice de Desafios](#-índice-de-desafios)
   - [01 — Ninjas: Missão](./desafio01-ninjas-missao/)
-  - [02 — Menu de Ninjas (CLI)](./desafio02-menu-ninjas/)
-  - [03 — Missões & Classes (POO)](./desafio03-missoes-ninjas-classes/)
+  - [02 — Menu de Ninjas](./desafio02-menu-ninjas/)
+  - [03 — Missões & Classes](./desafio03-missoes-ninjas-classes/)
   - [04 — Jogo de Personagens](./desafio04-jogo-personagens/)
   - [05 — Sistema de Cadastro de Ninjas](./desafio05-sistema-cadastro-ninjas/)
 
 ---
 
 ## 🗂 Estrutura do Repositório
-
+```
 java10x-desafios/
 ├─ desafio01-ninjas-missao/
 ├─ desafio02-menu-ninjas/
@@ -22,7 +22,7 @@ java10x-desafios/
 ├─ desafio04-jogo-personagens/
 ├─ desafio05-sistema-cadastro-ninjas/
 └─ README.md
-
+```
 ---
 
 ## 🏹 Índice de Desafios
